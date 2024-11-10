@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+backend/weather/
 
 # Spyder project settings
 .spyderproject
